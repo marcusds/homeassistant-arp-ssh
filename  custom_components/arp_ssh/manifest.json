@@ -1,8 +1,9 @@
 {
   "domain": "arp_ssh",
-  "name": "ARP via SSH",
+  "name": "ARP SSH",
   "codeowners": ["@marcusds"],
-  "documentation": "https://example.org/",
+  "documentation": "https://github.com/marcusds/homeassistant-arp-ssh/",
+  "issue_tracker": "https://github.com/marcusds/homeassistant-arp-ssh/issues",
   "iot_class": "local_polling",
   "quality_scale": "legacy",
   "version": "0.0.1",
