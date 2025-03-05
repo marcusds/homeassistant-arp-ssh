@@ -1,0 +1,11 @@
+{
+  "domain": "arpfetcher",
+  "name": "ARP Fetcher",
+  "codeowners": ["@marcusds"],
+  "documentation": "https://example.org/",
+  "iot_class": "local_polling",
+  "quality_scale": "legacy",
+  "version": "0.0.1",
+  "loggers": ["pexpect", "ptyprocess"],
+  "requirements": ["pexpect==4.9.0"]
+}
