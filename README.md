@@ -1,5 +1,11 @@
 # ARP SSH
 
+## Notice
+
+This is provided without warranty or support of any kind.
+
+## Instructions
+
 Install by putting the contents of `custom_components` in your `config/custom_components` directory.
 
 Add to your Home Assistant configuration.yaml:
