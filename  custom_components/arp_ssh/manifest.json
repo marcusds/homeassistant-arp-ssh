@@ -1,6 +1,6 @@
 {
-  "domain": "arpfetcher",
-  "name": "ARP Fetcher",
+  "domain": "arp_ssh",
+  "name": "ARP via SSH",
   "codeowners": ["@marcusds"],
   "documentation": "https://example.org/",
   "iot_class": "local_polling",
