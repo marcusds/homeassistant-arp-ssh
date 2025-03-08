@@ -4,9 +4,9 @@
   "codeowners": ["@marcusds"],
   "documentation": "https://github.com/marcusds/homeassistant-arp_ssh/",
   "integration_type": "hub",
-  "loggers": ["pexpect", "ptyprocess"],
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/marcusds/homeassistant-arp_ssh/issues",
+  "loggers": ["pexpect", "ptyprocess"],
   "quality_scale": "legacy",
   "requirements": ["pexpect==4.9.0"],
   "version": "0.0.1"
